@@ -1,0 +1,956 @@
+    1  cd Downloads/
+    2  ls
+    3  cd pycharm-community-2023.3.5/
+    4  ls
+    5  cd bin/
+    6  ls
+    7  sudo ./pycharm.sh 
+    8  cd pycharm-community-2023.3.5/bin/
+    9  cd ../../../../
+   10  cd pycharm-community-2023.3.5/bin/
+   11  cd ~/programming/python
+   12  cd ~/programming/python/
+   13  cd programming
+   14  cd ~/course/programming/python/
+   15  cd course
+   16  cd programming
+   17  cd python
+   18  history|grep pycharm
+   19  cd pycharm-community-2023.3.5/
+   20  sudo ./pycharm.sh
+   21  cd ../../../
+   22  cd Downloads
+   23  cd ..
+   24  cd Downloads
+   25  ls
+   26  cd pycharm-community-2023.3.5/
+   27  cd pycharm-community-2023.3.5/bin/
+   28  ls
+   29  cd bin
+   30  ls
+   31  sudo ./pycharm.sh
+   32  mkdir software
+   33  mv ~/Downloads/pycharm-community-2023.3.5 software/
+   34  ls software/
+   35  cd Downloads/
+   36  ls
+   37  cd pycharm-community-2023.3.5/bin/
+   38  ls
+   39  sudo ./pycharm.sh 
+   40  cd
+   41  ls
+   42  cd Desktop/
+   43  mkdir course
+   44  mkdir programming
+   45  ls
+   46  rm -rf programming/
+   47  ls
+   48  cd course/
+   49  mkdir programming
+   50  cd programming/
+   51  cd python
+   52  mkdir  python
+   53  cd python/
+   54  cd little_things/
+   55  ls
+   56  cd data/
+   57  ls
+   58  cd ..
+   59  git status
+   60  sudo apt install git
+   61  sudo apt-get update
+   62  sudo apt install git
+   63  git status
+   64  sudo apt-get update
+   65  sudo apt install git
+   66  git status
+   67  cd  ..
+   68  cp -r little_things/ little_things_ak/
+   69  ssh-keygen -t ed25519 -C "aberakenea2020@gmail.com"
+   70  eval "$(ssh-agent -s)"
+   71  ssh-add ~/.ssh/id_ed25519
+   72  cat ~/.ssh/
+   73  ssh-add ~/.ssh/samsung
+   74  ssh-add ~/.ssh/samsung/
+   75  git clone ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEqXrf63vWG+t+UeOSZ80zDW0TBBhWacmxkeGXDicHug aberakenea2020@gmail.com
+   76  git clone git@github.com:teamAAU/little_things.git
+   77  rm -rf little_things
+   78  ls
+   79  rm -rf little_things
+   80  ls little_things
+   81  ls little_things(copy)
+   82  git clone git@github.com:teamAAU/little_things.git
+   83  ls
+   84  rm -rf little_things_ak/
+   85  ls
+   86  rm -rf little_things
+   87  ls little_things
+   88  rm -rf little_things
+   89  ls -l little_things/venv/bin/wheel3.10
+   90  ls -l '/media/abera/7EC7-9A48/little_things/.idea' 
+   91  sudo rm -rf little_things/venv/
+   92  ls -l little_things
+   93  rm -rf little_things
+   94  git clone git@github.com:teamAAU/little_things.git
+   95  ls little_things
+   96  cd little_things
+   97  ls
+   98  history|grep pycharm
+   99  cd pycharm-community-2023.3.5/bin/
+  100  ls
+  101  ls -l
+  102  sudo rm -rf venv
+  103  ls -l
+  104  ls -la
+  105  sudo chown -R abera .idea
+  106  sudo chgrp -R abera .idea
+  107  ls -la
+  108  rm -rf venv/
+  109  ls
+  110  ping google.com
+  111  cd 
+  112  cd '/home/abera/Desktop/course/programming/python/little_things' 
+  113  ls *.gz
+  114  tar xvf gffs.tar.gz 
+  115  pwd
+  116  find  /home/abera/Desktop/course/programming/python/little_things
+  117  find  /home/abera/Desktop/course/programming/python/little_things -name '*.gff3' > gffabera.txt
+  118  cat gffabera.txt 
+  119  ls -l *.png|wc -l
+  120  ls -l *.gff3|wc -l
+  121  ls -l gffs/*.gff3|wc -l
+  122  cd ~/Desktop/course/programming/python/little_things
+  123  ls
+  124  cd ~/Desktop/course/programming/python/
+  125  git clone https://github.com/teamAAU/GRNs.git
+  126  cd GRNs
+  127  git clone git@github.com:teamAAU/GRNs.git
+  128  cd GRNs
+  129  ls
+  130  cd ..
+  131  cd data
+  132  cd data/
+  133  cd python
+  134  cd data/mirbase/22
+  135  ls
+  136  grep -A 1 "^hsa"  mature.fa > hsa_mature.fa
+  137  ls
+  138  cd hsa
+  139  grep -A 1 "^>hsa" mature.fa > hsa_mature.fa
+  140  ls
+  141  ls hsa
+  142  grep -E "^>hsa" -A 1 mature.fa | grep -v "^--$" > hsa_mature.fa
+  143  ls
+  144  grep -A 1 "hsa" mature.fa > hsa_mature.fa
+  145  ls
+  146  mkdir hsa
+  147  cd hsa
+  148  cp Desktop/course/programming/python/data/mirbase/22 hsa
+  149  ls
+  150  mv hsa_mature.fa hsa
+  151  cd ..
+  152  grep  "hsa" mature.fa |more
+  153  grep -A 1 "hsa" mature.fa > hsa_mature.fa |more
+  154  grep -A 1 "hsa" mature.fa  |more
+  155  mv hsa_mature.fa hsa
+  156  ls hsa
+  157  cp Desktop/course/programming/python/ls
+  158  cp Desktop/course/programming/python/little_things
+  159  cp Desktop/course/programming/python/little_things/
+  160  cp /Desktop/course/programming/python/little_things/
+  161  cp /home/abera/Desktop/course/programming/python/little_things
+  162  cp /home/abera/Desktop/course/programming/python/little_things/
+  163  cp ~/home/abera/Desktop/course/programming/python/little_things/
+  164  cp /home/abera/Desktop/course/programming/python/little_things/gffs/hsa.gff3 hsa/
+  165  ls
+  166  ls hsa
+  167  cd hsa
+  168  ls
+  169  grep -c miRNA_primary_transcript hsa.gff3
+  170  vim hsa.gff3 
+  171  sudo apt install vim
+  172  vim hsa.gff3 
+  173  grep -p "\tmiRNA\t" hsa.gff3 
+  174  grep  "\tmiRNA\t" hsa.gff3 
+  175  man grep
+  176  grep -E  "\tmiRNA\t" hsa.gff3 
+  177  grep -G  "\tmiRNA\t" hsa.gff3 
+  178  grep -G  "miRNA\t" hsa.gff3 
+  179  man grep
+  180  grep -P "\tmiRNA\t" hsa.gff3 
+  181  grep miRNA hsa.gff3 |more
+  182  grep miRNA hsa.gff3 |grep -v|more
+  183  grep miRNA hsa.gff3 |grep -v primary |more
+  184  grep miRNA hsa.gff3 |grep -v primary |wc -l
+  185  grep -P "\tmiRNA\t" hsa.gff3 |wc -l
+  186  grep -c ">" hsa_mature.fa 
+  187  grep -P "\tmiRNA\t" hsa.gff3 |more
+  188  grep '-1-3p' hsa.gff3 
+  189  grep '\-1-3p' hsa.gff3 
+  190  grep hsa-miR-30c hsa_mature.fa 
+  191  grep -A 1 hsa-miR-30c hsa_mature.fa 
+  192  grep 'b-' hsa.gff3 
+  193  grep -A 1 miR-513b hsa_mature.fa 
+  194  grep 'miR-513b' hsa.gff3 
+  195  grep 'miR-513' hsa.gff3 
+  196  grep 'miR-513' hsa_mature.fa 
+  197  history > history.txt
+  198  ls
+  199  cd ~/Desktop/course/programming/python/GRNs/
+  200  ls
+  201  cd ..
+  202  cd data/
+  203  ls
+  204  cd hsa
+  205  cd mirbase/22
+  206  cd hsa
+  207  ls
+  208  cd..
+  209  cd ..
+  210  ls
+  211  cd gffs
+  212  ls
+  213  cd ../../../
+  214  cd ..
+  215  cd GRNs/
+  216  ls
+  217  cd ensembl/
+  218  ls
+  219  cd ../..
+  220  cd data/mirbase/22
+  221  cd hsa
+  222  ls
+  223  grep -m 1 '^#' hsa.gff3
+  224  grep -m 1 '#' hsa.gff3
+  225  grep '^##miRBase version' hsa.gff3
+  226  ls
+  227  grep 'miRBase version' hsa.gff3
+  228  ls
+  229  grep 'miRBase' hsa.gff3
+  230  grep 'microRNA' hsa.gff3
+  231  grep -m 1 'miRBase' hsa.gff3
+  232  cd ../../..
+  233  cd ..
+  234  cd GRNs/ensembl/
+  235  ls
+  236  gunzip Homo_sapiens.GRCh38.111.gff3
+  237  ls
+  238  cat Homo_sapiens.GRCh38.111.gff3 
+  239  grep -c Homo_sapiens.GRCh38.111.gff3 
+  240  grep -v "\#" |more
+  241  grep -v "\#"|more
+  242  cat Homo_sapiens.GRCh38.111.gff3 
+  243  more Homo_sapiens.GRCh38.111.gff3 
+  244  grep -v "\#"|more
+  245  grep -v "\#"|more Homo_sapiens.GRCh38.111.gff3 
+  246  grep -v "\#" Homo_sapiens.GRCh38.111.gff3|more 
+  247  cat Homo_sapiens.GRCh38.111.gff3 
+  248  grep -v "\#" Homo_sapiens.GRCh38.111.gff3|more 
+  249  wc -l Homo_sapiens.GRCh38.111.gff3 
+  250  cut -f 3 Homo_sapiens.GRCh38.111.gff3 |more
+  251  grep -v "\#" |cut -f 3 Homo_sapiens.GRCh38.111.gff3 |more
+  252  grep -v "\#" Homo_sapiens.GRCh38.111.gff3 |cut -f 3|more
+  253  grep -v "\#" Homo_sapiens.GRCh38.111.gff3 |cut -f 3 |sort|uniq -c
+  254  history > history.txt 
+  255  ls
+  256  grep -P "\tgene\t" Homo_sapiens.GRCh38.111.gff3 | cut -f 3 | wc -l
+  257  grep -P "\tthree_prime_UTR\t" Homo_sapiens.GRCh
+  258  vim Homo_sapiens.GRCh38.111.gff3 
+  259  cd ~/Desktop/course/programming/python/data/mirbase/22/hsa/
+  260  ls
+  261  cd../../..
+  262  cd../../../
+  263  cd ../../../
+  264  cd ..
+  265  cd GRNs/
+  266  ls
+  267  cd ensembl/
+  268  ls
+  269  grep -v "\#" Homo_sapiens.GRCh38.111.gff3 |cut -f 3 |sort|uniq -c
+  270  grep -v "\tgene"t Homo_sapiens.GRCh38.111.gff3 |cut -f 3 |sort|uniq -c
+  271  grep -v "\tthree_prime_UTR"t Homo_sapiens.GRCh38.111.gff3 |cut -f 3 |more
+  272  grep -v "\tthree_prime_UTR"t Homo_sapiens.GRCh38.111.gff3
+  273  grep -v "\#"t Homo_sapiens.GRCh38.111.gff3|grep "\tthree_prime_UTR"t
+  274  more
+  275  grep -v "\#"t Homo_sapiens.GRCh38.111.gff3|grep "\tthree_prime_UTR"t |more
+  276  grep -c "gene" Homo_sapiens.GRCh38.111.gff3
+  277  ls
+  278  grep -c "\tgene"t Homo_sapiens.GRCh38.111.gff3
+  279  grep -p "\tgene"t Homo_sapiens.GRCh38.111.gff3
+  280  grep -P "\tgene"t Homo_sapiens.GRCh38.111.gff3
+  281  grep -c "three_prime_UTR" Homo_sapiens.GRCh38.111.gff3
+  282  grep "three_prime_UTR" Homo_sapiens.GRCh38.111.gff3
+  283  history > history.txt
+  284  ls
+  285  grep -c "\pathways"t Homo_sapiens.GRCh38.111.gff3
+  286  grep -c "\tpathways\t" Homo_sapiens.GRCh38.111.gff3
+  287  grep -c "\tgene_pathway\t" Homo_sapiens.GRCh38.111.gff3
+  288  cd ~/Desktop/course/programming/python/
+  289  ls
+  290  mkdir willowTestData
+  291  cd willowTestData
+  292  ls
+  293  unzip willowj.jar
+  294  ls
+  295  java -jar willowj.jar -h
+  296  java -jar WillowJ.jar -h
+  297  ls
+  298  pwd
+  299  java -jar -Dlog4j.configurationFile = fileName="/home/abera/Desktop/course/programming/python/willowTestData/debug_willowj.log">
+  300  java -jar -Dlog4j.configurationFile:file="/home/abera/Desktop/course/programming/python/willowTestData/debug_willowj.log"
+  301  java -jar -Dlog4j.configurationFile:file="/home/abera/Desktop/course/programming/python/willowTestData/debug_willowj.log" WillowJ.jar -h
+  302  ls *log
+  303  ls *xml
+  304  mote gdr.log4j2.xml 
+  305  java -jar -Dlog4j.configurationFile:file="/home/abera/Desktop/course/programming/python/willowTestData/gdr.log4j2.xml" WillowJ.jar -h
+  306  ls *log
+  307  more gdr.log4j2.xml 
+  308  java -jar -Dlog4j.configurationFile:file="/home/abera/Desktop/course/programming/python/willowTestData/gdr.log4j2.xml" WillowJ.jar -h
+  309  ls *log
+  310  more gdr.log4j2.xml 
+  311  ls /home/abera/Desktop/course/programming/python/willowTestData/debug_willowj.log
+  312  ls /home/abera/Desktop/course/programming/python/willowTestData/
+  313  java -jar -Dlog4j.configurationFile=file:"/home/abera/Desktop/course/programming/python/willowTestData/gdr.log4j2.xml" WillowJ.jar -h
+  314  pwd
+  315  find /home/abera/Desktop/course/programming/python/willowTestData/dist_mats/ -name = '*.tsv'
+  316  find /home/abera/Desktop/course/programming/python/willowTestData/dist_mats/ -name  '*.tsv'
+  317  find /home/abera/Desktop/course/programming/python/willowTestData/dist_mats/ -name  '*.tsv' > dist_mat_list.txt
+  318  more dist_mat_list.txt 
+  319  pwd
+  320  java -jar -Dlog4j.configurationFile=file:"/home/abera/Desktop/course/programming/python/willowTestData/gdr.log4j2.xml" WillowJ.jar -c '/home/abera/Desktop/course/programming/python/willowTestData/willowj_calcGDR_v3.yaml' 
+  321  history > history.txt
+  322  ls
+  323  cd ~/Desktop/course/programming/python/willowTestData/
+  324  ls
+  325  find /home/abera/Desktop/course/programming/python/willowTestData/dist_mats/ -name = '*.txt'
+  326  find /home/abera/Desktop/course/programming/python/willowTestData/dist_mats/ -name '*.txt'
+  327  ls
+  328  find /home/abera/Desktop/course/programming/python/willowTestData/dist_mats/ -name  '*.tsv' > 8*8_BACTERIALINEAGE_dist__max0.tsv
+  329  more dist_mat_list.txt 
+  330  PWD
+  331  pwd
+  332  java -jar -Dlog4j.configurationFile=file:"/home/abera/Desktop/course/programming/python/willowTestData/gdr.log4j2.xml" WillowJ.jar -c '/home/abera/Desktop/course/programming/python/willowTestData/willowj_calcGDR_v3.yaml' 
+  333  ls
+  334  cd dist_mats  
+  335  ls
+  336  cd ..
+  337  find /home/abera/Desktop/course/programming/python/willowTestData/dist_mats/ -name '*.txt'
+  338  ls
+  339  find /home/abera/Desktop/course/programming/python/willowTestData/dist_mats/ -name  '*.txt' > 8x8___BACTERIA___LINEAGE___dist_max1.tsv
+  340  more 8x8___BACTERIA___LINEAGE___dist_max1.tsv
+  341  java -jar -Dlog4j.configurationFile=file:"/home/abera/Desktop/course/programming/python/willowTestData/gdr.log4j2.xml" WillowJ.jar -c '/home/abera/Desktop/course/programming/python/willowTestData/willowj_calcGDR_v3.yaml' 
+  342  histoy > history.txt
+  343  history > history.txt
+  344  ls
+  345  find /home/abera/Desktop/course/programming/python/willowTestData/dist_mats/ -name  '*.txt' > 8x8___BACTERIA___LINEAGE___dist_max2.tsv
+  346  java -jar -Dlog4j.configurationFile=file:"/home/abera/Desktop/course/programming/python/willowTestData/gdr.log4j2.xml" WillowJ.jar -c '/home/abera/Desktop/course/programming/python/willowTestData/willowj_calcGDR_v3.yaml'
+  347  ls
+  348  cd dist_mats/
+  349  ls
+  350  cd ..
+  351  java -jar -Dlog4j.configurationFile=file:"/home/abera/Desktop/course/programming/python/willowTestData/gdr.log4j2.xml" WillowJ.jar -c '/home/abera/Desktop/course/programming/python/willowTestData/willowj_calcGDR_v3.yaml'
+  352  cd ~/Desktop/course/programming/python/
+  353  git clone git@github.com:teamAAU/networks.git
+  354  mkdir networks
+  355  cd networks
+  356  ls
+  357  grep -c "Prediction:" target_prediction_parsing.py
+  358  grep -c "prediction:" target_prediction_parsing.py
+  359  grep -c "prediction" target_prediction_parsing.py
+  360  grep -c "prediction" target_prediction_parsing.py |wc -l
+  361  cd ../..
+  362  cd python/
+  363  cd GRNs/
+  364  LS
+  365  ls
+  366  ls reactome/
+  367  gunzip Ensembl2Reactome_PE_Pathway.txt.gz
+  368  unzip Ensembl2Reactome_PE_Pathway.txt.gz
+  369  cd reactome/
+  370  ls
+  371  gunzip Ensembl2Reactome_PE_Pathway.txt.gz
+  372  ls
+  373  grep R-HSA pathway.file > HSA.pathway.file
+  374  grep R-HSA Ensembl2Reactome_PE_Pathway.txt > HSA.pathway.file 
+  375  ls HSA.pathway.file 
+  376  cat HSA.pathway.file 
+  377  grep -c "pathways" HSA.pathway.file 
+  378  grep -c "gene" HSA.pathway.file 
+  379  cd ~/Desktop/course/programming/python/GRNs/reactome/
+  380  ls
+  381  grep -c "pathways" HSA.pathway.file 
+  382  grep -c "gene" HSA.pathway.file 
+  383  ls H[200~SA.pathway.file 
+  384  ls HSA.pathway.file 
+  385  cat HSA.pathway.file 
+  386  grep -c "pathways" HSA.pathway.file 
+  387  grep "R-HSA" Ensembl2Reactome_PE_Pathway.txt |more
+  388  grep "R-HSA" Ensembl2Reactome_PE_Pathway.txt |cut -f 4|more
+  389  grep "R-HSA" Ensembl2Reactome_PE_Pathway.txt |cut -f 4|sort|uniq -c
+  390  grep "R-HSA" Ensembl2Reactome_PE_Pathway.txt |cut -f 4|sort|uniq -c|wc -l
+  391  grep "R-HSA" Ensembl2Reactome_PE_Pathway.txt |cut -f 4|sort|uniq -c|sort
+  392  head R-HSA Ensembl2Reactome_PE_Pathway.txt 
+  393  grep R-HSA Ensembl2Reactome_PE_Pathway.txt |cut -f 1|grep ENSG|sort|uniq -c|more
+  394  grep R-HSA Ensembl2Reactome_PE_Pathway.txt |cut -f 1|grep ENSG|sort|uniq -c|wc -l
+  395  cd ../..
+  396  ls
+  397  history > history.txt
+  398  ls
+  399  cd GRNs/reactome/
+  400  history > history.txt
+  401  ls
+  402  cd ../..
+  403  ls networks/
+  404  cd networks/
+  405  grep target_prediction_parsing.py |more
+  406  cat target_prediction_parsing.py
+  407  cd ~/Desktop/course/programming/python/networks/
+  408  ls
+  409  cd data
+  410  ls -l
+  411  gunzip R-HSA-111931.byMiRs.positiveTargetSites.tsv.tar.gz
+  412  ls
+  413  tar xvf R-HSA-111931.byMiRs.positiveTargetSites.tsv.tar.gz
+  414  tar vf R-HSA-111931.byMiRs.positiveTargetSites.tsv.tar.gz
+  415  head R-HSA-111931.byMiRs.positiveTargetSites.tsv.tar 
+  416  mv  R-HSA-111931.byMiRs.positiveTargetSites.tsv.tar  R-HSA-111931.byMiRs.positiveTargetSites.tsv
+  417  ls
+  418  wc -l R-HSA-111931.byMiRs.positiveTargetSites.tsv 
+  419  cd ..
+  420  ls
+  421  target_prediction_parsing.py  -h
+  422  python3 target_prediction_parsing.py  -h
+  423  history > history.txt
+  424  ls
+  425  python3 target_prediction_parsing.py  -h
+  426  cd ~/
+  427  ls
+  428  mkdir PyCharmProjects
+  429  cd PyCharmProjects/
+  430  git clone git@github.com:CBGOUS/pyNonC.git
+  431  cd pyNonC/
+  432  ls
+  433  python3 -m venv pynonc --prompt="pynonc"
+  434  sudo apt install python3.10-venv
+  435  python3 -m venv pynonc --prompt="pynonc"
+  436  pwd
+  437  export PYTHONPATH=$PYTHONPATH:'/home/abera/PyCharmProjects/pyNonC'
+  438  python3 /home/abera/PyCharmProjects/pyNonC/noncpipe/ncPipe.py -h
+  439  python3 -m pip install pandas
+  440  sudo apt install python3-pip
+  441  python3 -m pip install pandas
+  442  python3 -m pip install Bio
+  443  python3 /home/abera/PyCharmProjects/pyNonC/noncpipe/ncPipe.py -h
+  444  python3 -m pip install dendropy
+  445  python3 /home/abera/PyCharmProjects/pyNonC/noncpipe/ncPipe.py -h
+  446  history > history.txt
+  447  ls
+  448  cd software/'
+  449  cd software/
+  450  ls
+  451  git clone git@github.com:CBGOUS/miraw_wrapper.git
+  452  ls
+  453  cd miraw_wrapper/
+  454  ls
+  455  ls ../
+  456  ls ../,,/
+  457  ls ../../
+  458  ls ../
+  459  cd ..
+  460  ls
+  461  cd ..
+  462  cd data
+  463  ls
+  464  cd miraw/
+  465  ls
+  466  cd miraw_testdata/
+  467  ls
+  468  cd ../../../
+  469  cd software
+  470  cd miraw_wrapper/
+  471  ls
+  472  cd ..
+  473  tar xvf ncbi-blast-2.15.0+-x64-linux.tar.gz 
+  474  cd ncbi-blast-2.15.0+/bin/
+  475  sudo cp * /usr/local/bin
+  476  blastn
+  477  ls
+  478  blastdb
+  479  cd ..
+  480  ls
+  481  cd Zotero_linux-x86_64/
+  482  ls z*
+  483  ./zotero
+  484  chmod +x /zotero
+  485  ls
+  486  chmod +x zotero
+  487  ./zotero
+  488  cd ..
+  489  ls
+  490  bunzip Zotero-6.0.35_linux-x86_64.tar.bz2 
+  491  bunzip2 Zotero-6.0.35_linux-x86_64.tar.bz2 
+  492  ls
+  493  tar xvf Zotero-6.0.35_linux-x86_64.tar 
+  494  abera > history.tx
+  495  history > history.tx
+  496  ls
+  497  cd Downloads
+  498  ls
+  499  sudo apt install ./zoom_amd64.deb
+  500  zoom 
+  501  cd Downloads/
+  502  ls
+  503  sudo apt install ./mendeley-reference-manager-2.112.0-x86_64.AppImage
+  504  ls
+  505  sudo dpkg -l ./mendeley-reference-manager-2.112.0-x86_64.AppImage
+  506  cd ..
+  507  sudo dpkg -l //home/abera/Downloads/mendeley-reference-manager-2.112.0-x86_64.AppImage
+  508  cd Downloads/
+  509  sudo apt install ./mendeley-reference-manager-2.112.0-x86_64.AppImage
+  510  sudo apt-get install -f
+  511  sudo dpkg -i //home/abera/Downloads/mendeley-reference-manager-2.112.0-x86_64.AppImage
+  512  sudo dpkg -i /home/abera/Downloads/mendeley-reference-manager-2.112.0-x86_64.AppImage
+  513  sudo dpkg -i ./home/abera/Downloads/mendeley-reference-manager-2.112.0-x86_64.AppImage
+  514  sudo apt-get update
+  515  sudo apt-get install -f
+  516  sudo dpkg -l //home/abera/Downloads/mendeley-reference-manager-2.112.0-x86_64.AppImage
+  517  sudo dpkg -l ./home/abera/Downloads/mendeley-reference-manager-2.112.0-x86_64.AppImage
+  518  sudo dpkg -l ./mendeley-reference-manager-2.112.0-x86_64.AppImage
+  519  chmod +x  mendeley-reference-manager-2.112.0-x86_64.AppImage
+  520  ./ mendeley-reference-manager-2.112.0-x86_64.AppImage
+  521  ./mendeley-reference-manager-2.112.0-x86_64.AppImage
+  522  ./mconfig/mendeley-reference-manager-2.112.0-x86_64.AppImage
+  523  ./config/mendeley-reference-manager-2.112.0-x86_64.AppImage
+  524  .config/mendeley-reference-manager-2.112.0-x86_64.AppImage
+  525  ./mendeley-reference-manager-2.112.0-x86_64.AppImage
+  526  cd Downloads/
+  527  ls
+  528  cd ..
+  529  cd office
+  530  cd Office
+  531  cd Applications
+  532  cd ALL Applications
+  533  cd All Applications
+  534  ps aux|grep office
+  535  ps aux|grep open
+  536  ls ~/.local/share/applications/zotero.office
+  537  ls ~/.local/share/applications
+  538  ls ~/.local/share/applications/
+  539  ls/opt
+  540  which zotero
+  541  ls -a
+  542  cd'
+  543  cd
+  544  ls -a
+  545  find ./ |grep zotero
+  546  rm -rf ./.zotero
+  547  find ./ |grep zotero
+  548  rm -rf ./.cache/zotero/
+  549  rm -rf ./Zotero/
+  550  find ./ |grep zotero
+  551  rm -rf ./Zotero/
+  552  rm -rf ./.cache/zotero/
+  553  rm -rf ./.zotero
+  554  ls
+  555  aberak@login.uio.com
+  556  aberak@login.uio
+  557  ssh aberak@login.uio
+  558  ssh aberak@login.uio.com
+  559  ssh aberak@login.uio.no
+  560  ping 129.240.114.52
+  561  ssh aberak @ 129.240.88.15
+  562  ssh aberak @login.uio.no
+  563  ssh aberak @ login.uio.no
+  564  mkdir home/abera/
+  565  mkdir home/abera/programming/python
+  566  mkdir home/abera/programming/
+  567  cd home/abera/programming/
+  568  bash
+  569  ls -l
+  570  mkdir /home/abera/Desktop/
+  571  ls Desktop/
+  572  mkdir Desktop/
+  573  cd Desktop/
+  574  ls
+  575  ls Abera/
+  576  ls programming
+  577  cd ..
+  578  nslookup aberak
+  579  ping 129.240.88.15
+  580  aberak 129.240.88.15
+  581  @aberak 129.240.88.15
+  582  ssh aberak@129.240.88.15
+  583  tar -xf telegram-desktop.tar.xz
+  584  cd Downloads/tar -xf telegram-desktop.tar.xz
+  585  cd Downloads/
+  586  tar -xf telegram-desktop.tar.xz
+  587  ssh @ aberak 129.240.88.15
+  588  ssh aberak @ 129.240.88.15
+  589  ssh aberak @129.240.88.15
+  590  ssh aberak@login.uio.no
+  591  ssh aberak@129.240.88.15
+  592  [200~ping 129.240.88.15
+  593  ~ping 129.240.88.15
+  594  ping 129.240.88.15
+  595  ssh aberak@login.uio.no
+  596  ping 129.240.114.52
+  597  ssh aberak@129.240.88.15
+  598  ssh aberak@129.240.114.52
+  599  ssh aberak@login.uio.no
+  600  ssh aberak@129.240.88.15
+  601  ssh aberak@login.uio.no
+  602  ssh aberak@129.240.88.15
+  603  CD ../../../../../../
+  604  cd ../../../../../../
+  605  cd ..
+  606  java -jar /path/to/willowj.jar
+  607  nohup
+  608  cd Desktop/
+  609  ls
+  610  cd course/programming/python/
+  611  ls
+  612  nohup
+  613  nohup ls -l ~/ &
+  614  little_things
+  615  cd little_things
+  616  ls
+  617  nohup
+  618  nohup ls -l ~/ &
+  619  nohup ls -l ~/ > ls_output.log 2>&1 &
+  620  cat ls_output.log
+  621  ls -l
+  622  nohup.out
+  623  nohup.output
+  624  cd hsa.png
+  625  cd hsa
+  626  cd ..
+  627  cd little_things/gffs/hsa.gff3.hsa
+  628  cd little_things
+  629  gffs/hsa.gff3 hsa/
+  630  cd gffs/hsa.gff3 hsa/
+  631  cd gffs
+  632  ls
+  633  cd hsa.gff3
+  634  rno.gff3
+  635  cd hsa.gff3 hsa/
+  636  cd /hsa.gff3 hsa/
+  637  cd ..
+  638  ls
+  639  cd data/
+  640  ls
+  641  cd mirbase/
+  642  ls
+  643  cd 22
+  644  ls
+  645  cd gffs/
+  646  ls
+  647  cd hsa.gff3
+  648  ls hsa.gff3
+  649  ls -l hsa.gff3
+  650  cd ../../..
+  651  cd willowTestData/
+  652  ls
+  653  cd dist_mats/
+  654  ls
+  655  nohup
+  656  nohup ls -l
+  657  nohup ls -l ~/ &
+  658  nohup.out
+  659  cd ../../../../../../../
+  660  ssh aberak@129.240.88.15
+  661  ssh aberak@login.uio.no
+  662  cd Desktop/course/programming/python/data/
+  663  ls
+  664  cd mirbase/
+  665  ls
+  666  cd 22/
+  667  ls
+  668  cd ../../..
+  669  ls
+  670  cd willowTestData/
+  671  ls
+  672  cd 8x8_distmat_list.csv
+  673  [200~find . -type f -exec grep -l "matrix" {} +
+  674  find . -type f -exec grep -l "matrix" {} +
+  675  find . -type f -exec grep -l "8x8_distmat_list.csv" {} +
+  676  ssh aberak@login.uio.no
+  677  R
+  678  cd Downloads
+  679  ls
+  680  sudo apt install ./rstudio-2024.04.1-748-amd64.deb
+  681  cd ..
+  682  sudo apt install ./rstudio-2024.04.1-748-amd64.deb
+  683  rstudio
+  684  sudo apt update
+  685  sudo apt upgrade
+  686  sudo apt install software-properties-common
+  687  sudo add-apt-repository 'deb https://cloud.r-project.org/bin/linux/ubuntu focal-cran40/'
+  688  sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys E084DAB9
+  689  sudo apt update
+  690  sudo apt install r-base
+  691  R --version
+  692  sudo dpkg -i rstudio-<version>.deb
+  693  sudo apt install r-base r-base-dev
+  694  apt rdepends r-base-core
+  695  rstudio
+  696  install.packages()
+  697  sudo -i R
+  698  rstudio
+  699  kenek-k@3.228.38.13
+  700  ssh 
+  701  kenek-klogin@3.228.38.13
+  702  ssh Kenea-k@3.228.38.13
+  703  ssh -l Kenea-K 3.228.38.13
+  704  ssh Kenea-K@3.228.38.13
+  705  rstudio
+  706  sudo apt update
+  707  sudo apt install usrmerge
+  708  ls
+  709  cd /Destop/
+  710  ssh Kenea-K@3.228.38.13
+  711  pwd
+  712  cd Desktop/
+  713  cd ..
+  714  scp Kenea-K@3.228.38.13:/data/users/Kenea-K/QC/*.html'' ./
+  715  ls
+  716  pwd
+  717  mkdir data
+  718  ls data/
+  719  mkdir data1
+  720  ls
+  721  ls data1
+  722  mv *.fq.gz data/
+  723  mv *.fq.gz data1/
+  724  cd QC
+  725  PWD
+  726  pwd
+  727  cd home/abera
+  728  ls data1
+  729  cat data1
+  730  cd Desktop/
+  731  scp Kenea-K@3.228.38.13:/data/users/Kenea-K/QC/*.html'' ./
+  732  ls
+  733  pwd
+  734  history > history.abera
+  735  ls
+  736  pwd
+  737  ls
+  738  ls history.abera
+  739  cd Desktop/
+  740  ls history.abera 
+  741  cat history.abera 
+  742  ssh Kenea-K@3.228.38.13
+  743  scp -r Kenea-K@3.228.38.13:/home/abera/data/* .
+  744  scp -r Kenea-K@3.228.38.13:/data/users/Kenea-K/data/* .
+  745  cd Desktop/
+  746  cd course/
+  747  scp -r Kenea-K@3.228.38.13:/data/users/Kenea-K/data/* .
+  748  ping3.228.38.13
+  749  ping 3.228.38.13
+  750  ssh Kenea-K@3.228.38.13
+  751  cd Desktop/course/
+  752  scp -r Kenea-K@3.228.38.13:/data/users/Kenea-K/data/* .
+  753  ls
+  754  ls data
+  755  cd Desktop/course/
+  756  ls
+  757  cd high/
+  758  ls
+  759  cd ../illumina/
+  760  ls
+  761  cd ../EM_illumina/
+  762  ls
+  763  ls high/
+  764  ls low/
+  765  cd Desktop/
+  766  ls
+  767  cd ../data
+  768  ls
+  769  cd miraw/
+  770  ls
+  771  conda install biopyhton
+  772  sudo apt-get install python3
+  773  sudo apt install python3-pip
+  774  sudo pip3 install biopython
+  775  python3 -m pip show biopython
+  776  biopython
+  777  python ---v
+  778  python ---version
+  779  python3 ---version
+  780  pip install /home/abera/Desktop/VensimPLEx32Setup(1).exe
+  781  pip install/VensimPLEx32Setup(1).exe
+  782  sudo apt install VensimPLEx32Setup(1).exe
+  783  sudo apt install VensimPLEx32Setup.exe
+  784  sudo dpkg --add-architecture i386
+  785  sudo mkdir -pm755 /etc/apt/keyrings
+  786  sudo wget -O /etc/apt/keyrings/winehq-archive.key https://dl.winehq.org/wine-builds/winehq.key
+  787  sudo wget -NP /etc/apt/sources.list.d/ https://dl.winehq.org/wine-builds/debian/dists/bookworm/winehq-bookworm.sources
+  788  sudo apt update
+  789  sudo apt install --install-recommends winehq-stable
+  790  /home/abera/Desktop/Abera/AB Msc/Python/Bioinformatics-Algorithms_week7-8_test_dataset.txt at master · Butskov_Bioinformatics-Algorithms · GitHub_files
+  791  cd Desktop/Abera/AB Msc/
+  792  cd Desktop/Abera/
+  793  ls
+  794  cd AB Msc/ 
+  795  Antrophpology\ ppt/
+  796  cd Antrophology ppt
+  797  cd
+  798  ls -l
+  799  ll
+  800  ls -l data
+  801  ls -l data1
+  802  cd Downloads/
+  803  ls
+  804  mv -rf 19503dm_names.txt data1
+  805  mv  19503dm_names.txt data1
+  806  cd ../data1
+  807  ls
+  808  tar -xvf 19503dm_names.txt
+  809  cd ../Downloads/
+  810  zip -r 19503dm_names.txt data1
+  811  cd ../data1
+  812  ls
+  813  cd ../Downloads/
+  814  zip -r 19503dm_names.txt.zip data1
+  815  unzip 19503dm_names.txt.zip
+  816  cd ..data1/
+  817  cd ../data1/
+  818  ls
+  819  ls -l
+  820  cd ../Downloads/
+  821  ls
+  822  ls 19503dm_names.txt.zip
+  823  unzip 19503dm_names.txt.zip
+  824  ls
+  825  mv 19503dm_names.txt.zip data1
+  826  cd ../data1
+  827  ls
+  828  cd ../Downloads/
+  829  pwd
+  830  mv 19503dm_names.txt data1
+  831  cd ../data1
+  832  ls
+  833  cd ../Downloads/
+  834  mv -rf 19503dm_names.txt data1
+  835  mv -r 19503dm_names.txt data1
+  836  ls 19503dm_names.txt |more
+  837  ls 19503dm_names.txt
+  838  cd data1/
+  839  ls
+  840  cd
+  841  cd data1
+  842  ls
+  843  cd
+  844  cd Downloads/
+  845  pwd
+  846  cd
+  847  mv /home/abera/Downloads/19503dm_names.txt data1
+  848  mv /home/abera/Downloads/data1 data1
+  849  ls data1
+  850  cd data1
+  851  ls
+  852  ls data1
+  853  cd ../Downloads/
+  854  ls data1
+  855  ls
+  856  tar -xzvf 19503dm_names.txt.zip
+  857  cd Mltimedia
+  858  cd Multimedia
+  859  cd /Downloads
+  860  cd Desktop/
+  861  pwd
+  862  ls
+  863  cd ../Downloads
+  864  cd data1
+  865  ls
+  866  ls data
+  867  ls data1
+  868  cd ..data1
+  869  cd ../data1
+  870  ls
+  871  ls data1/
+  872  cd data1
+  873  ls
+  874  cat 19503dm_names.tx
+  875  more 19503dm_names.tx
+  876  ssh aberak@129.240.88.25
+  877  cd
+  878  ssh aberak@129.240.88.15
+  879  ssh aberak@login.uio.no
+  880  shh aberak@129.240.88.15
+  881  ssh aberak@129.240.88.15
+  882  ssh -r aberak@129.240.88.15
+  883  -r ssh aberak@129.240.88.15
+  884  -l ssh aberak@129.240.88.15
+  885  ssh -l aberak@129.240.88.15
+  886  ssh -l aberak129.240.88.15
+  887  ssh-l aberak@129.240.88.15
+  888  ssh -l aberak@129.240.88.15
+  889  ssh aberak@129.240.88.15
+  890  python3 --version
+  891  ssh -l aberak@129.240.88.15
+  892  ssh aberak@129.240.88.15
+  893  ssh aberak@login.uio.no
+  894  ssh aberak@129.240.114.52
+  895  gnome-system-monitor 
+  896  rstudio
+  897  python3 script.py
+  898  python3 --version
+  899  python3
+  900  cd Desktop/
+  901  cd course/programming/python/willowTestData/
+  902  ls
+  903  cd dist_mats/
+  904  ls
+  905  8x8___BACTERIA___LINEAGE___dist_max1.tsv
+  906  >8x8___BACTERIA___LINEAGE___dist_max1.tsv
+  907  cccccccd
+  908  cd
+  909  find /home/abera/Desktop/course/programming/python/willowTestData/dist_mats/ -name  '*.txt' > 8x8___BACTERIA___LINEAGE___dist_max2.tsv
+  910  cd dist_mats/
+  911  cd /Desktop/course/programming/python/willowTestData/dist_mats
+  912  cd /Desktop/course/programming/python/willowTestData/dist_mats/
+  913  cd /Desktop/course/programming/python/
+  914  cd/Desktop/course/programming/python/
+  915  cd/Desktop/course
+  916  cd Desktop/course/programming/python/
+  917  willowTestData/dist_mats/
+  918  cd/willowTestData/dist_mats/
+  919  cd /willowTestData/dist_mats/
+  920  cd /willowTestData/
+  921  ls
+  922  cd willowTestData/
+  923  ls
+  924  cd dist_mats/
+  925  ls
+  926  -name  '*.txt' > 8x8___BACTERIA___LINEAGE___dist_max2.tsv
+  927  cd ..
+  928  cd dist_mats/-name  '*.txt' > 8x8___BACTERIA___LINEAGE___dist_max2.tsv
+  929  java -jar -Dlog4j.configurationFile=file:"/home/abera/Desktop/course/programming/python/willowTestData/gdr.log4j2.xml" WillowJ.jar -c '/home/abera/Desktop/course/programming/python/willowTestData/willowj_calcGDR_v3.yaml'
+  930  ls willowj_GDRCalculator
+  931  java -jar -Dlog4j.configurationFile=file:"/home/abera/Desktop/course/programming/python/willowTestData/gdr.log4j2.xml" WillowJ.jar -c '/home/abera/Desktop/course/programming/python/willowTestData/willowj_calcGDR_v3.yaml'
+  932  cd
+  933  cd data1
+  934  ls
+  935  cd data1
+  936  ls
+  937  grep CNTNAP 19503dm_names.txt 
+  938  grep CNTNAP 19503dm_names.txt.zip 
+  939  gzip -d /mnt/data21/data/1000genomesAnalysis/distance_matrices/ninja2dms/ENSG00000108797___CNTNAP1__dist_max.tsv.gz
+  940  grep 'CNTNAP1' 19503dm_names.txt > CNTNAP1_dm_names.txt
+  941  gzip -d /mnt/data21/data/1000genomesAnalysis/distance_matrices/ninja2dms/ENSG00000108797___CNTNAP1__dist_max.tsv.gz
+  942  grep VYP4F 19503dm_names.txt.zip 
+  943  grep VYP4F 19503dm_names.txt
+  944  grep VKORC19503dm_names.txt
+  945  grep VKORC 19503dm_names.txt
+  946  grep CYP2C 19503dm_names.txt
+  947  grep CYP4F 19503dm_names.txt
+  948  grep PCSK 19503dm_names.txt
+  949  grep SNTA1 19503dm_names.txt
+  950  grep SNTA 19503dm_names.txt
+  951  grep 'CYP2C' 19503dm_names.txt > CYP2C_dm_names.txt
+  952  grep PCSK4 19503dm_names.txt
+  953  grep CYP4F3 19503dm_names.txt
+  954  gzip -d /mnt/data21/data/1000genomesAnalysis/distance_matrices/ninja4dms/ENSG00000169174_CYP4F3dist_max.tsv.gz
+  955  find gzip -d /mnt/data21/data/1000genomesAnalysis/distance_matrices/ninja4dms/ENSG00000169174_CYP4F3dist_max.tsv.gz
+  956  history > history.genome

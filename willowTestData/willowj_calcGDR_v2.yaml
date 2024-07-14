@@ -1,0 +1,9 @@
+---
+ analysis_name: 'BactLin3'
+ func: 'calcGDR'
+ sample_group_info_file: '/mnt/c/Users/HP/Desktop/From_Simon/willowTestData/GDR_example_calc__sample_group_info.tsv'
+ output_folder: '/mnt/c/Users/HP/Desktop/From_Simon/willowTestData/GDRcalculationResultsJ/'
+ output_unprocessed: 'GDRcalculation_unprocessed_samplesJ.tsv'
+ group_category_definitions_file: '/mnt/c/Users/HP/Desktop/From_Simon/willowTestData/tb_lineage_classes.tsv'
+ num_random_values: 0
+ distance_matrix_filelist: '/mnt/c/Users/HP/Desktop/From_Simon/willowTestData/8x8_distmat_list.csv'

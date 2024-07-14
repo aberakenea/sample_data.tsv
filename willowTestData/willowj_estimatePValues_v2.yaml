@@ -1,0 +1,9 @@
+---
+ analysis_name: 'BactLin3'
+ func: 'estimatePValues'
+ sample_group_info_file: '/Users/simonray/DropboxUiO/dropData/Willow2_testdata/GDR_CDR/GDR_example_calc__sample_group_info.tsv'
+ output_folder: '/Users/simonray/DropboxUiO/dropData/Willow2_testdata/GDR_CDR/GDRcalculationResultsJ/'
+ output_unprocessed: 'GDRcalculation_unprocessed_samplesJ.tsv'
+ group_category_definitions_file: '/Users/simonray/DropboxUiO/dropData/Willow2_testdata/GDR_CDR/bacteria_lineage__group_category_definitions.tsv'
+ num_random_values: 0
+ distance_matrix_filelist: '/Users/simonray/DropboxUiO/dropData/Willow2_testdata/GDR_CDR/distmat_list5.csv'

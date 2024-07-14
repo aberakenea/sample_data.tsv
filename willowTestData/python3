@@ -1,0 +1,50 @@
+import pandas as pd
+
+# Read the TSV file into a pandas DataFrame
+def read_tsv_file(file_path):
+    return pd.read_csv(file_path, sep='\t')
+
+# Check for the category in the specified column
+def find_category_in_column(df, column, category):
+    # Debug print to show available columns
+    print("Available columns:", df.columns.tolist())
+    
+    # Check if the column exists
+    if column not in df.columns:
+        raise ValueError(f"Didn't find the specified column <{column}>. Available columns are: {df.columns.tolist()}")
+    
+    # Check if the category exists in the column
+    if category not in df[column].values:
+        raise ValueError(f"Didn't find the specified category <{category}> in column <{column}>")
+    
+    return category
+
+def main():
+    file_path = '/home/abera/data1/data1/willowTestData/combined_subset_10x10.tsv'
+    
+    # Read the TSV file
+    try:
+        df = read_tsv_file(file_path)
+    except FileNotFoundError:
+        print(f"File not found: {file_path}")
+        return
+    except Exception as e:
+        print(f"Error reading file: {e}")
+        return
+    
+    # Example: Category and column to find
+    category_to_find = 'Category0'
+    column_to_find_in = 'Column1'
+    
+    # Find category in the specified column
+    try:
+        value = find_category_in_column(df, column_to_find_in, category_to_find)
+        print(f"Found value: {value}")
+    except ValueError as e:
+        print(e)
+
+if __name__ == '__main__':
+    main()
+
+
+

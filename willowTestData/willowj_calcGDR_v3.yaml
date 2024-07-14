@@ -1,0 +1,10 @@
+---
+ analysis_name: '1000_genomes'
+ func: "calcGDR"
+ sample_group_info_file: "/home/abera/data1/data1/willowTestData/sample_data.tsv"
+
+ output_folder: "/home/abera/data1/data1/willowTestData/GDRcalculationResultsJ/"
+ output_unprocessed: "GDRcalculation_unprocessed_samplesJ.tsv"
+ group_category_definitions_file: "/home/abera/data1/data1/willowTestData/group_data.tsv"
+ num_random_values: 0
+ distance_matrix_filelist: "/home/abera/data1/data1/willowTestData/ENSG00000175426___PCSK1__dist_max.tsv"
