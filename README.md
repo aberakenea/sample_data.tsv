@@ -18,6 +18,9 @@
 #20:31:27.688 [main] ERROR willow.GDRCalculator - ------error reading CDR/GDR result file </home/abera/data1/data1/willowTestData/#GDRcalculationResultsJ/AberaTest_estimatePValues__abera_distmat_list__population__gdr.tsv>
 #20:31:27.689 [main] ERROR willow.GDRCalculator - /home/abera/data1/data1/willowTestData/GDRcalculationResultsJ/AberaTest_estimatePValues__abera_distmat_list__population__gdr.tsv
 #java.io.IOException: java.nio.file.NoSuchFileException: /home/abera/data1/data1/willowTestData/GDRcalculationResultsJ/AberaTest_estimatePValues__abera_distmat_list__population__gdr.tsv
+#After the above error was fixed both new bootstrap and P_Values are added on GitHub repository:
+#AberaTest_bootstrap__abera_distmat_list__population__gdr.tsv
+#AberaTest__abera_distmat_list__population__pvals.tsv
 
 
 
